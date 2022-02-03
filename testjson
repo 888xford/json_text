@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "firstname": "勉",
+    "lastname": "主田",
+    "age": 24
+  },
+  {
+    "id": 2,
+    "firstname": "未来",
+    "lastname": "崎岡",
+    "age": 28
+  }
+]
